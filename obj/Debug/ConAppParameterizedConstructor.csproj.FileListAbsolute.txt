@@ -1,0 +1,8 @@
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-8\ConsoleApp1\ConAppParameterizedConstructor\bin\Debug\ConAppParameterizedConstructor.exe.config
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-8\ConsoleApp1\ConAppParameterizedConstructor\bin\Debug\ConAppParameterizedConstructor.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-8\ConsoleApp1\ConAppParameterizedConstructor\bin\Debug\ConAppParameterizedConstructor.pdb
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-8\ConsoleApp1\ConAppParameterizedConstructor\obj\Debug\ConAppParameterizedConstructor.csproj.AssemblyReference.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-8\ConsoleApp1\ConAppParameterizedConstructor\obj\Debug\ConAppParameterizedConstructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-8\ConsoleApp1\ConAppParameterizedConstructor\obj\Debug\ConAppParameterizedConstructor.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-8\ConsoleApp1\ConAppParameterizedConstructor\obj\Debug\ConAppParameterizedConstructor.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-8\ConsoleApp1\ConAppParameterizedConstructor\obj\Debug\ConAppParameterizedConstructor.pdb
